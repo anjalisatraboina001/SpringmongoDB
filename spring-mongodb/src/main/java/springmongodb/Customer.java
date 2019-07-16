@@ -2,7 +2,6 @@
  * 
  */
 package springmongodb;
-
 import org.springframework.data.annotation.Id;
 
 /**
