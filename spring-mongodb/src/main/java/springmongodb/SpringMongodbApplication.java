@@ -43,6 +43,5 @@ public class SpringMongodbApplication implements CommandLineRunner {
 			System.out.println(customer);
 		}
 
-
 	}
 }
